@@ -19,7 +19,7 @@ The dataset was originally published through the UCI Machine Learning Repository
 
 **Replace this placeholder after creating the repository:**
 
-`<GITHUB_REPOSITORY_LINK>`
+`[<GITHUB_REPOSITORY_LINK>](https://github.com/sarath-reddy/2025AD05065-ML-ASSIGNMENT-2)`
 
 ## d. Models Used
 
@@ -70,7 +70,7 @@ The application provides:
 
 **Replace this placeholder after deployment:**
 
-`<STREAMLIT_APP_LINK>`
+`[<STREAMLIT_APP_LINK>](https://2025ad05065-ml-assignment-2-addaub3cmgmgr9vq2hbb5x.streamlit.app/)`
 
 ## Project Structure
 
